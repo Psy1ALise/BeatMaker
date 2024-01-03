@@ -1,0 +1,39 @@
+{
+    "samples": [
+        "KSHMR_Hi_Hats_Closed_03.wav",
+        "KSHMR_Punchy_Kick_15__G#_.wav",
+        "KSHMR_Hard_Snare_04.wav",
+        "KRNE_Hold_Fast_Twinkle_Keys.wav",
+        "KSHMR_Sweep_Down_01.wav",
+        "None",
+        "None",
+        "None"
+    ],
+    "button_states": {
+        "0,0": true,
+        "0,2": true,
+        "0,4": true,
+        "0,6": true,
+        "0,8": true,
+        "0,10": true,
+        "0,12": true,
+        "0,16": true,
+        "0,18": true,
+        "0,20": true,
+        "0,22": true,
+        "0,24": true,
+        "0,26": true,
+        "0,28": false,
+        "0,30": true,
+        "1,0": true,
+        "1,20": true,
+        "2,8": true,
+        "2,14": true,
+        "2,18": true,
+        "2,24": true,
+        "2,28": true,
+        "3,0": true,
+        "4,0": true
+    },
+    "bpm": 170
+}
